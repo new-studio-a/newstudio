@@ -1,0 +1,21 @@
+
+body{
+	background:url(cover-3.jpg);
+}
+
+form{
+	background:url(cover-6.jpg);
+	margin-top:3cm;
+	margin-left:7.8cm;
+	padding:75px;	
+	position:absolute;
+	border-radius:15px;
+}
+	input{
+	background:url(cover-7.jpg);
+	border-radius:5px;
+	border:none;
+	position:center;
+	height:25px;
+	border:none;
+}
